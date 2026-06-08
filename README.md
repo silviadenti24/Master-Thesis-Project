@@ -1,2 +1,2 @@
 # Master-Thesis-Project
-Data, analysis scripts, prompts, and supplementary materials for the thesis "Evaluating LLMs Across the Scientific Research Pipeline: A Case Study on Electromagnetic Fields as Cancer Monotherapy" (Politecnico di Milano, 2026).
+Data, analysis scripts, prompts, and supplementary materials for the thesis "Evaluating LLMs across the scientific research pipeline: a case study on Electromagnetic Fields as in vitro cancer monotherapy" (Politecnico di Milano, 2026).
